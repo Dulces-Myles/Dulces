@@ -1,0 +1,13 @@
+
+  
+  
+p {
+  font: oblique bold 300% cursive;
+}
+h1 {
+  font: oblique bold 500% cursive;
+  color: white;
+}
+body{background-image: radial-gradient(circle at 48.63% 49.04%, #fff3ff 0, #ffeaff 10%, #ffdfff 20%, #ffd3ff 30%, #ffc4ff 40%, #efb3f1 50%, #caa1d9 60%, #ab92c2 70%, #9285ae 80%, #7e7a9d 90%, #6e718f 100%);
+}
+.destacado{color:blue}
